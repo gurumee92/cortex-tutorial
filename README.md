@@ -37,4 +37,4 @@
 
 * 전통적인 방식으로 Jaeger를 확장해보자.
 * Grafana Agent와 Tempo로 변경해보자.
-* Grafana와 Prometheus를 통해서 모니터링해보자.
+* Grafana와 Prometheus를 통해서 Distributed Tracing 시스템을 모니터링해보자.
